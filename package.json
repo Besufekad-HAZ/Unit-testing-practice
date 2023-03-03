@@ -1,0 +1,24 @@
+{
+  "name": "unit-testing-practice",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "1st-problem.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Besufekad-HAZ/Unit-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Besufekad-HAZ/Unit-testing-practice/issues"
+  },
+  "homepage": "https://github.com/Besufekad-HAZ/Unit-testing-practice#readme"
+}

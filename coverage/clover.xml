@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1677856835995" clover="3.2.0">
+  <project timestamp="1677856835995" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7" elements="36" coveredelements="36" complexity="0" loc="21" ncloc="21" packages="1" files="4" classes="4"/>
+    <file name="1st-problem.js" path="C:\Microverse All\Microverse New\Testing-practice\Unit-testing-practice\1st-problem.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="2nd-problem.js" path="C:\Microverse All\Microverse New\Testing-practice\Unit-testing-practice\2nd-problem.js">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="3rd-problem.js" path="C:\Microverse All\Microverse New\Testing-practice\Unit-testing-practice\3rd-problem.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="4th-problem.js" path="C:\Microverse All\Microverse New\Testing-practice\Unit-testing-practice\4th-problem.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
